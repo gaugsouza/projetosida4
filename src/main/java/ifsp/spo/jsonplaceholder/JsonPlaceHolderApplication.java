@@ -4,10 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JsonplaceholderApplication {
-
+public class JsonPlaceHolderApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(JsonplaceholderApplication.class, args);
+		SpringApplication.run(JsonPlaceHolderApplication.class, args);
 	}
-
 }
